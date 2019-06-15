@@ -1,0 +1,56 @@
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.deps.json
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.deps.json
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.deps.json
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csprojAssemblyReference.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CoreCompileInputs.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfoInputs.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfo.cs
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.deps.json
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Service.pdb
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csprojAssemblyReference.cache
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.AssemblyInfo.cs
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.csproj.CopyComplete
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.dll
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Service\obj\Debug\netstandard2.0\Hospital.Service.pdb

@@ -1,0 +1,36 @@
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\aw\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\USUARIO\Documents\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Hamp\Documents\Proyecto(1)(1)\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.deps.json
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\PC\Documents\upc\Aplicaciones Web\semana 13\Proyecto\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
