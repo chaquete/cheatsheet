@@ -1,0 +1,14 @@
+'dotnet new sln -n Roffus',
+'dotnet new webapi -n Roffus.Api',
+'dotnet new classlib -n Roffus.Domain',
+'dotnet new classlib -n Roffus.Repository',
+'dotnet new classlib -n Roffus.Service',
+
+'dotnet add Roffus.Repository/Roffus.Repository.csproj reference Roffus.Domain/Roffus.Domain.csproj',
+'dotnet add Roffus.Service/Roffus.Service.csproj reference Roffus.Repository/Roffus.Repository.csproj',
+'dotnet add Roffus.Service/Roffus.Service.csproj reference Roffus.Domain/Roffus.Domain.csproj',
+'dotnet add Roffus.Api/Roffus.Api.csproj reference Roffus.Domain/Roffus.Domain.csproj',
+'dotnet add Roffus.Api/Roffus.Api.csproj reference Roffus.Service/Roffus.Service.csproj',
+'dotnet sln Roffus.sln add Roffus.Api/Roffus.Api.csproj Roffus.Repository/Roffus.Repository.csproj Roffus.Domain/Roffus.Domain.csproj Roffus.Service/Roffus.Service.csproj',
+'dotnet build',
+'code .'
